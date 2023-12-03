@@ -23,10 +23,11 @@ first we have 3 C CODES and 2 TXT FILES
 WORKING:
 
 //this part is basically saying follow the console just read the headings but if you want to know more you can read extra too
+
       voter is allowed to run (1) i.e votingproject.c and follow the instructions on console
         just in case im mentioning some of them
-        i)ID should be written in small letters only
-        ii)ID should be valid (code is written to handle irregular users so it will ask to write again)
+        1)ID should be written in small letters only
+        2)ID should be valid (code is written to handle irregular users so it will ask to write again)
         basically this is child's play please just follow what is said on thre console
       
       admin is allowed to run (2) i.e adminvotesystem.c and follow the instructions on console
