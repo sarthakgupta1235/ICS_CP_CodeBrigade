@@ -9,9 +9,9 @@ this is ICS cource group CODE BRIGADE
     cyber coder 3) UDAY SHAW(B23CH1045)<br>
     cyber coder 4) APADESH KUMAR(B23BB1010)<br>
 
-<br><b>NOW how do you operate the code?</b>
-  rule 1) do not tamper with names of the c codes or it will result in total failure
-  rule 2) follow exactly as what is being said on the console though code is made resilient to silly mistakes of voters
+<br><b>NOW how do you operate the code?</b><br>
+  rule 1) do not tamper with names of the c codes or it will result in total failure<br>
+  rule 2) follow exactly as what is being said on the console though code is made resilient to silly mistakes of voters<br>
 
 <b>first we have 3 C CODES and 2 TXT FILES</b>
 
