@@ -135,17 +135,17 @@ void cameo(){
             }
             if(inp[0]=='b'||inp[0]!='m'){
                 if(inp[3]=='b'){
-                    if(inp[4]!='b'){ping(inp); return 0;}
+                    if(inp[4]=='b');else{ping(inp); return 0;}
                 }else if(inp[3]=='e'){
-                    if(inp[4]!='e' ||inp[4]!='s'){ping(inp); return 0;}
+                    if(inp[4]=='e' ||inp[4]=='s');else{ping(inp); return 0;}
                 }else if(inp[3]=='m'){
-                    if(inp[4]!='e'||inp[4]!='t'||inp[4]!='a'){ping(inp); return 0;}
+                    if(inp[4]=='e'||inp[4]=='t'||inp[4]=='a');else{ping(inp); return 0;}
                 }else if(inp[3]=='c'){
-                    if(inp[4]!='m'||inp[4]!='i'||inp[4]!='h'||inp[4]!='y'||inp[4]!='s'){ping(inp); return 0;}
+                    if(inp[4]=='m'||inp[4]=='i'||inp[4]=='h'||inp[4]=='y'||inp[4]=='s');else{ping(inp); return 0;}
                 }else if(inp[3]=='a'){
-                    if(inp[4]!='i'){ping(inp); return 0;}
+                    if(inp[4]=='i');else{ping(inp); return 0;}
                 }else if(inp[3]=='p'){
-                    if(inp[4]!='h'){ping(inp); return 0;}
+                    if(inp[4]=='h');else{ping(inp); return 0;}
                 }
             }
             for(int i=0;i<9;i++){
