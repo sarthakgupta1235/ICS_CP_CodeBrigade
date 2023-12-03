@@ -15,12 +15,12 @@ this is ICS cource group CODE BRIGADE
 
 <b>first we have 3 C CODES and 2 TXT FILES</b>
 
-  1)votingproject.c      {operated by the voter}
-  2)adminvotesystem.c    {operated by admin to check votes}
-  3)votingprojectfunctions.c  {dont tamper or harm contains all necessary functions to run above 2 codes}
+  1)votingproject.c      {operated by the voter}<br>
+  2)adminvotesystem.c    {operated by admin to check votes}<br>
+  3)votingprojectfunctions.c  {dont tamper or harm contains all necessary functions to run above 2 codes}<br>
 
-  4)datauserin.txt    {contains all inputs of users, it is fixed defined dont change name/info i.e. any chnge to name will fail the system though it will run}
-  5)problemstatement.txt    {contains the voting statement that is going to be presented to voter}
+  4)datauserin.txt    {contains all inputs of users, it is fixed defined dont change name/info i.e. any chnge to name will fail the system though it will run}<br>
+  5)problemstatement.txt    {contains the voting statement that is going to be presented to voter}<br>
 
 
 <b>WORKING:</b>
