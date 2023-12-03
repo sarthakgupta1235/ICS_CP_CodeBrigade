@@ -34,7 +34,7 @@ this is ICS cource group CODE BRIGADE
         basically this is child's play please just follow what is said on thre console
       
       admin is allowed to run (2) i.e adminvotesystem.c and follow the instructions on console
-        just in cas please put big console to observe it neatly
+        just in case please put big console to observe it neatly
       
 //upto you if you wanna update voting problem statement like "VOTING FOR PRIME MINISTER" you can use bellow instructions
 
