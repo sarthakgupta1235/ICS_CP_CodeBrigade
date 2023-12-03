@@ -122,10 +122,31 @@ void cameo(){
             return;
         }
 
+    //extra
+    void ping(char inp[]){
+        cameo();
+        printf("%sid that you gave (%s) is not registered%s\n",bold,inp,reset);
+        printf("write correct id (capitals not allowed)\n");
+    }
     //to check id validity
         int checkid(char inp[]){
             if(inp[0]=='@' && inp[1]=='!'){
                 return 100;
+            }
+            if(inp[0]=='b'||inp[0]!='m'){
+                if(inp[3]=='b'){
+                    if(inp[4]!='b'){ping(inp); return 0;}
+                }else if(inp[3]=='e'){
+                    if(inp[4]!='e' ||inp[4]!='s'){ping(inp); return 0;}
+                }else if(inp[3]=='m'){
+                    if(inp[4]!='e'||inp[4]!='t'||inp[4]!='a'){ping(inp); return 0;}
+                }else if(inp[3]=='c'){
+                    if(inp[4]!='m'||inp[4]!='i'||inp[4]!='h'||inp[4]!='y'||inp[4]!='s'){ping(inp); return 0;}
+                }else if(inp[3]=='a'){
+                    if(inp[4]!='i'){ping(inp); return;}
+                }else if(inp[3]=='p'){
+                    if(inp[4]!='h'){ping(inp); return 0;}
+                }
             }
             for(int i=0;i<9;i++){
                 if(i==0 || i==3 || i==4){
