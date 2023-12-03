@@ -2,14 +2,14 @@
 
 this is ICS cource group CODE BRIGADE
 
-//==>our group brigaders
-  MEMS
+<b>//==>our group brigaders</b><br>
+  <b>MEMS</b><br>
     cyber coder 1) JOEL PARADESI(B23ME1043) 
     cyber coder 2) SARTHAK SANJAY GUPTA(B23BB1039)
     cyber coder 3) UDAY SHAW(B23CH1045)
     cyber coder 4) APADESH KUMAR(B23BB1010)
 
-<b>NOW how do you operate the code?</b>
+<br><b>NOW how do you operate the code?</b>
   rule 1) do not tamper with names of the c codes or it will result in total failure
   rule 2) follow exactly as what is being said on the console though code is made resilient to silly mistakes of voters
 
@@ -47,7 +47,7 @@ this is ICS cource group CODE BRIGADE
         step 5)if you are going to give new data here it is beter to delete all text/data in DATAUSERIN.TXT so both works together
         
 
-//there is an EASTER EGG in the process you can find that out for yourselves by checking code or within three days it will be revealed on the repository (06/12/2023)
+//there is an EASTER EGG in the process on how to exit code if you dont wanna vote you can find that out for yourselves by checking code or within three days it will be revealed on the repository (06/12/2023)
 
 //only for enthusiasts passage 
 
