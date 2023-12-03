@@ -143,7 +143,7 @@ void cameo(){
                 }else if(inp[3]=='c'){
                     if(inp[4]!='m'||inp[4]!='i'||inp[4]!='h'||inp[4]!='y'||inp[4]!='s'){ping(inp); return 0;}
                 }else if(inp[3]=='a'){
-                    if(inp[4]!='i'){ping(inp); return;}
+                    if(inp[4]!='i'){ping(inp); return 0;}
                 }else if(inp[3]=='p'){
                     if(inp[4]!='h'){ping(inp); return 0;}
                 }
