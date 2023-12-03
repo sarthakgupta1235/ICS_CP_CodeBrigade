@@ -2,12 +2,12 @@
 
 this is ICS cource group CODE BRIGADE
 
-==>our group brigaders
-
-  cyber coder 1) JOEL PARADESI(B23ME1043) 
-  cyber coder 2) SARTHAK SANJAY GUPTA(B23BB1039)
-  cyber coder 3) UDAY SHAW(B23CH1045)
-  cyber coder 4) APADESH KUMAR(B23BB1010)
+//==>our group brigaders
+  MEMS
+    cyber coder 1) JOEL PARADESI(B23ME1043) 
+    cyber coder 2) SARTHAK SANJAY GUPTA(B23BB1039)
+    cyber coder 3) UDAY SHAW(B23CH1045)
+    cyber coder 4) APADESH KUMAR(B23BB1010)
 
 <b>NOW how do you operate the code?</b>
   rule 1) do not tamper with names of the c codes or it will result in total failure
