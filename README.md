@@ -9,11 +9,11 @@ this is ICS cource group CODE BRIGADE
   cyber coder 3) UDAY SHAW(B23CH1045)
   cyber coder 4) APADESH KUMAR(B23BB1010)
 
-<b>NOW how do you operate the code?<b>
+<b>NOW how do you operate the code?</b>
   rule 1) do not tamper with names of the c codes or it will result in total failure
   rule 2) follow exactly as what is being said on the console though code is made resilient to silly mistakes of voters
 
-first we have 3 C CODES and 2 TXT FILES
+<b>first we have 3 C CODES and 2 TXT FILES</b>
 
   1)votingproject.c      {operated by the voter}
   2)adminvotesystem.c    {operated by admin to check votes}
@@ -23,7 +23,7 @@ first we have 3 C CODES and 2 TXT FILES
   5)problemstatement.txt    {contains the voting statement that is going to be presented to voter}
 
 
-WORKING:
+<b>WORKING:</b>
 
 //this part is basically saying follow the console just read the headings but if you want to know more you can read extra too
 
